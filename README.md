@@ -7,7 +7,7 @@
     <ul>
       <li>👾 Part of Pinely International</li>
       <li>🔝 I’m looking to collaborate on some interesting project</li>
-      <li>💻 MERN Stack Developer</li>
+      <li>💻  Backend Developer</li>
       <li>📫 How to reach me: varduhi.sargsyan@pinely.eu</li>
     </ul>
     <div>
